@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e . #to run the file setup.py
